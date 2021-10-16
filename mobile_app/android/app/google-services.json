@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588674516103",
+    "project_id": "ntu-monkey-alert",
+    "storage_bucket": "ntu-monkey-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588674516103:android:e1ac76d5992b098336a422",
+        "android_client_info": {
+          "package_name": "com.example.scdf_ibm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588674516103-eeqnrfgu5oabhst5uiuedb322v6rloap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftOgoZWdSrfpioJ9MVA7LSuba8k1nv9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588674516103-eeqnrfgu5oabhst5uiuedb322v6rloap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
